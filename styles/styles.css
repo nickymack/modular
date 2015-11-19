@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+.product{
+  text-align: center;
+  height:500px;
+  width:400px;
+        }
+.product-listing{
+  height:80%;
+  width:80%;
+  float:left
+}
+.rating{
+  clear:both;
+  float:left;
+  height:10%;
+  width:30%;
+  margin-top:20px;
+  margin-left:120px;
+  opacity: .5;
+}
+.product-title-link{
+  clear:both;
+  float:left;
+  margin-left:130px;
+  text-decoration: none;
+}
+.product-price{
+  clear:both;
+  float:left;
+  margin-left:145px;
+}
+.compare-product{
+  clear:both;
+  float:left;
+  margin-left:110px;
+}
